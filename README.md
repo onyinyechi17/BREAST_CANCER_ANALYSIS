@@ -1,4 +1,4 @@
-# BREAST_CANCER_ANALYSIS
+BREAST-CANCER-ANALYSIS
 Machine learning-based risk stratification model for breast cancer diagnostic support.
 Breast Cancer Morphological Analysis: Predictive Clinical ModeLling
 
